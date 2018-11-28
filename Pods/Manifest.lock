@@ -1,0 +1,33 @@
+PODS:
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - UberCore (0.11.0)
+  - UberRides (0.11.0):
+    - UberCore
+
+DEPENDENCIES:
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - UberRides (~> 0.11)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - UberCore
+    - UberRides
+
+SPEC CHECKSUMS:
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  UberCore: b72013357bff720a30a1b12669e724750b775ef7
+  UberRides: d39c7c9f612d8f5ebfb69f475a553e1a54c3c4b5
+
+PODFILE CHECKSUM: 4a778be1d4394e09a4f2b36c98a001499daf1d25
+
+COCOAPODS: 1.5.3

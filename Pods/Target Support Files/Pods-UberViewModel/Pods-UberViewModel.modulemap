@@ -1,0 +1,6 @@
+framework module Pods_UberViewModel {
+  umbrella header "Pods-UberViewModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
