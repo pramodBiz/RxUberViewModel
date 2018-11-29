@@ -20,7 +20,7 @@
 		CD8D2BDA21AEB2C8003CD3AE /* UberViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UberViewModel.h; sourceTree = "<group>"; };
 		CD8D2BDB21AEB2C8003CD3AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD8D2BE421AEB750003CD3AE /* UberRideViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UberRideViewModel.swift; sourceTree = "<group>"; };
-		CD8D2C0621AED4CF003CD3AE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		CD8D2C0621AED4CF003CD3AE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = UberViewModel/LICENSE; sourceTree = "<group>"; };
 		DABC860D963072DB18DF9DCD /* Pods-UberViewModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UberViewModel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UberViewModel/Pods-UberViewModel.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
