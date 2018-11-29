@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.platform = :ios
 s.ios.deployment_target = '9.0'
 s.name = "UberViewModel"
-s.summary = "UberViewModel lets a user select an ice cream flavor."
+s.summary = "UberViewModel lets a user integrate book uber functionlity using reactive View model pattern"
 s.requires_arc = true
 
 # 2
