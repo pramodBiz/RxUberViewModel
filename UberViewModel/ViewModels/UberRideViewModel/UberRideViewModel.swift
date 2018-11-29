@@ -20,7 +20,7 @@ private protocol ViewModelType {
     var output: Output { get }
 }
 
-class UberRideViewModel: ViewModelType {
+class UberRideViewModel : ViewModelType {
 
     var input: Input
     var output: Output
