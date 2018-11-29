@@ -75,27 +75,11 @@
 		CD8D2BD921AEB2C8003CD3AE /* UberViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				CD8D2BE221AEB743003CD3AE /* ViewModels */,
+				CD8D2BE421AEB750003CD3AE /* UberRideViewModel.swift */,
 				CD8D2BDA21AEB2C8003CD3AE /* UberViewModel.h */,
 				CD8D2BDB21AEB2C8003CD3AE /* Info.plist */,
 			);
 			path = UberViewModel;
-			sourceTree = "<group>";
-		};
-		CD8D2BE221AEB743003CD3AE /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-				CD8D2BE321AEB750003CD3AE /* UberRideViewModel */,
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		CD8D2BE321AEB750003CD3AE /* UberRideViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				CD8D2BE421AEB750003CD3AE /* UberRideViewModel.swift */,
-			);
-			path = UberRideViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
