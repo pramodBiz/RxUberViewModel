@@ -21,7 +21,7 @@ s.homepage = "https://github.com/pramodBiz/RxUberViewModel"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/pramodBiz/RxUberViewModel.git",
-:tag => "0.1.0}" }
+:tag => "0.1.0" }
 
 # 7
 s.framework = "UIKit"
