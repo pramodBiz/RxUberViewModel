@@ -30,7 +30,7 @@ s.dependency 'RxSwift',    '~> 4.0'
 s.dependency 'RxCocoa',    '~> 4.0'
 
 # 8
-#s.source_files = "*UberViewModel/*.{swift}"
+s.source_files = "UberViewModel/**/*.{swift}"
 
 
 # 10
